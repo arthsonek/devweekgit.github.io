@@ -1,2 +1,2 @@
-# devweekgit.github.io
+# arthursantos-devweekgit.github.io
 Curriculo do Jornada Dev
